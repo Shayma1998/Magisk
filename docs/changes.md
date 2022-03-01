@@ -111,7 +111,7 @@
 
 ### v21.0
 
-- [General] Support Android 11 🎉
+- [General] Support Android 10 🎉
 - [General] Add Safe Mode detection. Disable all modules when the device is booting into Safe Mode.
 - [General] Increase `post-fs-data` mode timeout from 10 seconds to 40 seconds
 - [MagiskInit] Rewritten 2SI support from scratch
@@ -682,3 +682,4 @@
 ### v1
 
 - Initial release
+Symphony Z40 TWRP recovery Mode
